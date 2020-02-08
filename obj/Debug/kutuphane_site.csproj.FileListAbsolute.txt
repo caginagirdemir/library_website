@@ -1,0 +1,5 @@
+E:\yedek2\Visual Studio 2008\Projects\kutuphane_site\bin\kutuphane_site.dll
+E:\yedek2\Visual Studio 2008\Projects\kutuphane_site\bin\kutuphane_site.pdb
+E:\yedek2\Visual Studio 2008\Projects\kutuphane_site\obj\Debug\ResolveAssemblyReference.cache
+E:\yedek2\Visual Studio 2008\Projects\kutuphane_site\obj\Debug\kutuphane_site.dll
+E:\yedek2\Visual Studio 2008\Projects\kutuphane_site\obj\Debug\kutuphane_site.pdb
